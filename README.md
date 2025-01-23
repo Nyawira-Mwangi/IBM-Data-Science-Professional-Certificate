@@ -1,1 +1,1 @@
-# IBM-Data-Science-Professional-Certificate
+# Projects carried out as I undertook the IBM Data Science Professional Certification
