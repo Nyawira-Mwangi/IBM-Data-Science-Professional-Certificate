@@ -9,10 +9,13 @@
    * Interactive Visual Analytics with Folium.ipynb"
    * Interactive Dashboard with Ploty Dash.ipynb"
 2. Extracting Stock Data Using a Web Scraping
-3. Analyzing Stock Performance and Building a Dashboard
-4. Predicting housing prices for King County USA
-5. Analyzing wildfire activities in Australia
-6. Australia Wildfire Dashboard
-7. Analysing historical trends in automobile sales during recession periods
-8. Predicting the optimum quotation price for the cars in a lot
-9. Rain Prediction in Australia 
+3. Extracting Stock Data Using a API-yfinance
+4. Analyzing Stock Performance and Building a Dashboard
+5. Predicting housing prices for King County USA
+6. Analyzing wildfire activities in Australia
+7. Australia Wildfire Dashboard
+8. Analysing historical trends in automobile sales during recession periods
+9. Predicting the optimum quotation price for the cars in a lot
+10. Rain Prediction in Australia
+11. Text Analysis: Analyzing customer feedback for a product
+12. Data Engineering
