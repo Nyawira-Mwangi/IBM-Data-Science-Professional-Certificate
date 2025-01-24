@@ -10,7 +10,7 @@
    * Interactive Dashboard with Ploty Dash.ipynb"
 3. Analyzing Stock Performance and Building a Dashboard
 4. Extracting Stock Data Using  Web Scraping
-5. Extracting Stock Data Using  API-yfinance
+5. Extracting Data Using  APIs
 6. Predicting housing prices for King County USA
 7. Analyzing wildfire activities in Australia
 8. Australia Wildfire Dashboard
