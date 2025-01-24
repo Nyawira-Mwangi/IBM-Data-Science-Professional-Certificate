@@ -8,10 +8,11 @@
    * Machine Learning Prediction.ipynb"
    * Interactive Visual Analytics with Folium.ipynb"
    * Interactive Dashboard with Ploty Dash.ipynb"
-2. Analyzing Stock Performance and Building a Dashboard
-3. Predicting housing prices for King County USA
-4. Analyzing wildfire activities in Australia
-5. Australia Wildfire Dashboard
-6. Analysing historical trends in automobile sales during recession periods
-7. Predicting the optimum quotation price for the cars in a lot
-8. Rain Prediction in Australia 
+2. Extracting Stock Data Using a Web Scraping
+3. Analyzing Stock Performance and Building a Dashboard
+4. Predicting housing prices for King County USA
+5. Analyzing wildfire activities in Australia
+6. Australia Wildfire Dashboard
+7. Analysing historical trends in automobile sales during recession periods
+8. Predicting the optimum quotation price for the cars in a lot
+9. Rain Prediction in Australia 
